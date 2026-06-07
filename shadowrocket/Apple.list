@@ -1,0 +1,7 @@
+# NAME: Apple
+# AUTHOR: jerrychoi
+# REPO: https://github.com/jerrychoi/fq_rules
+
+DOMAIN,identity.apple.com
+DOMAIN-SUFFIX,push.apple.com
+IP-CIDR,17.0.0.0/8,no-resolve
