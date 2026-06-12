@@ -1,0 +1,8 @@
+# NAME: Futu
+# AUTHOR: jerrychoi
+# REPO: https://github.com/jerrychoi/fq_rules
+
+DOMAIN-SUFFIX,lbctrl.com
+DOMAIN-SUFFIX,lbkrs.com
+DOMAIN-SUFFIX,longbridgeapp.com
+DOMAIN-SUFFIX,pbkrs.com
